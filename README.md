@@ -3,6 +3,8 @@
 Minimal reproduction: relative links inside footnotes are not rewritten
 on the repository home page.
 
+Reported in GitHub Community: https://github.com/orgs/community/discussions/212255
+
 ## Test
 
 1. Body link: [docs/a.md](docs/a.md)
